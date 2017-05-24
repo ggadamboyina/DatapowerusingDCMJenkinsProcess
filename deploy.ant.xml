@@ -142,8 +142,7 @@
   <property name="schema.dir" location="${dcm.dir}/schemas"/>
   <property name="checkpoint.name" value="simple"/>
   <property name="upload-dir.from" value="E:/API Management/Datapower docs/datapower policies"/>
-  <property name="upload-dir.to" value="local:///sample"/>
-  <property name="capturesoma" value=""/>
+   <property name="capturesoma" value=""/>
   <property name="dumpinput" value="false"/>
   <property name="dumpoutput" value="false"/>
   <property name="mgmt.method" value="/service/mgmt/current"/>
