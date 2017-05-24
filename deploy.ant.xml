@@ -136,11 +136,11 @@
 
   <!-- Ensure we know where DCM is located. -->
  <!-- Provide reasonable defaults for some optional properties. -->
-  <property name="dcm.dir" location="E:\API Management\Datapower docs\DCM\datapower-configuration-manager-master\datapower-configuration-manager-master" />
+  <property name="dcm.dir" location="E:/API Management/Datapower docs/DCM/datapower-configuration-manager-master/datapower-configuration-manager-master" />
   <property name="dcm.jar" location="${dcm.dir}/dist/dcm.jar"/>
   <property name="work.dir" location="./tmp"/>
   <property name="schema.dir" location="${dcm.dir}/schemas"/>
-  <property name="import-file" value="default"/>
+  <property name="import-file" value="E:/API Management/Datapower docs/datapower policies/imp"/>
   <property name="upload-dir.from" value="E:/API Management/Datapower docs/datapower policies"/>
    <property name="capturesoma" value=""/>
   <property name="dumpinput" value="false"/>
