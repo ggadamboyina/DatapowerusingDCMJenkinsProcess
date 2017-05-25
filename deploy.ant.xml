@@ -141,8 +141,8 @@
   <property name="work.dir" location="./tmp"/>
   <property name="schema.dir" location="${dcm.dir}/schemas"/>
   <property name="checkpoint.name" value="simple"/>
-  <property name="upload-dir.from" value="E:/API Management/Datapower docs/datapower policies"/>
-  <property name="upload-dir.to" value="local:///mainFile"/>
+  <property name="upload-dir.from" value="C:\Users\miracle\.jenkins\workspace\DCMDEMO"/>
+  <property name="upload-dir.to" value="local:///jenkinsWorkspaceFile"/>
   <property name="capturesoma" value=""/>
   <property name="dumpinput" value="false"/>
   <property name="dumpoutput" value="false"/>
