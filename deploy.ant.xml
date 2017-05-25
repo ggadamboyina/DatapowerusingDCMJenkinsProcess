@@ -140,7 +140,7 @@
   <property name="dcm.jar" location="${dcm.dir}/dist/dcm.jar"/>
   <property name="work.dir" location="./tmp"/>
   <property name="schema.dir" location="${dcm.dir}/schemas"/>
-  <property name="import-from-def" value="local:///sample"/>
+  <property name="import-changed" value="local:///sample"/>
   <property name="upload-dir.from" value="E:/API Management/Datapower docs/datapower policies"/>
    <property name="capturesoma" value=""/>
   <property name="dumpinput" value="false"/>
